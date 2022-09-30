@@ -199,6 +199,10 @@ body {
         justify-content: center;
         align-items: center;
     }
+    
+     .container .top {
+        padding: 20px;
+    }
 
     .container .bottom .first {
         margin: 0px 0 20px 0px;
